@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"words.upload_file"}],"uuid":"65a68a7085b84bdcb3fa9e6f75dd2ad2"}
